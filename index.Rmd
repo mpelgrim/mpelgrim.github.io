@@ -1,18 +1,22 @@
 ---
-title: "mfeo"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Madeline H. Pelgrim"
+image: "mpelgrim.jpg"
 site: distill::distill_website
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/madeline-pelgrim-81962510a/"
+  - label: Twitter
+    url: "https://twitter.com/madelinepelgrim"
+  - label: GitHub
+    url: "https://github.com/mpelgrim"
+  - label: Email
+    url: "mailto:madeline_pelgrim@brown.edu"
+output:
+  postcards::jolla
+  
 ---
+ 
+I am a second year PhD student at Brown University working with Daphna Buchsbaum at the Brown Dog Lab. 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
+My research focuses on how dogs think and learn about the world around them, particularly in their interactions with their human companions. I completed my Bachelor's in Biology and Psychology at the University of Toronto. 
 

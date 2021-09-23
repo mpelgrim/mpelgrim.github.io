@@ -1,0 +1,33 @@
+---
+title: "Publications"
+output:
+  distill::distill_article
+---
+
+# Publications
+1. **Pelgrim, M. H**., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. *Animal Cognition.*\ [**Online**](https://doi.org/10.1007/s10071-021-01493-5)
+
+# Unpublished Work
+2. ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S.  Byrne M, Freeman, M. S., Gnanadesikan, G. E.,  Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., **Pelgrim, M. H.**, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., & Zipperling L. (preprint). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. *PsyArXiv.*\
+    [**Online (preprint)**](https://psyarxiv.com/f86jq/)
+3. **Pelgrim, M.**, Espinosa, J., & Buchsbaum, D. (in prep) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method
+
+```{r echo=FALSE}
+htmltools::p(
+  "
+  Disclaimer: The PDFs provided may be copyrighted by the journals/edited volumes
+  in which they are published. Access to these articles is provided to facilitate
+  timely distribution of scientific knowledge, and is therefore intended for your
+  personal use only. No commercial use may be made of these articles, nor is mass
+  production of these articles permitted.
+  ",
+  style = "font-size: 70%; font-style: italic"
+)
+```
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
