@@ -5,7 +5,7 @@ output:
 ---
 
 # Publications
-1. **Pelgrim, M. H**., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. *Animal Cognition.*\ [**Online**](https://doi.org/10.1007/s10071-021-01493-5)
+1. **Pelgrim, M. H**., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. *Animal Cognition.*\ [**Online**](https://doi.org/10.1007/s10071-021-01493-5)[**PDF**](https://mpelgrim.github.io/Pelgrim2021_WhatSThePointDomesticDogsSensi.pdf)
 
 # Unpublished Work
 2. ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S.  Byrne M, Freeman, M. S., Gnanadesikan, G. E.,  Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., **Pelgrim, M. H.**, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., & Zipperling L. (preprint). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. *PsyArXiv.*\
