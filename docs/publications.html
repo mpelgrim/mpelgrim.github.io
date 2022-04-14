@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,13 +77,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>Madeline H. Pelgrim: Publications</title>
@@ -452,7 +453,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </style>
 
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1859,7 +1860,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2372,7 +2376,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2424,16 +2428,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <h1 id="publications">Publications</h1>
-<ol type="1">
-<li><p><strong>Pelgrim, M. H</strong>., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. <em>Animal Cognition.</em> <a href="https://doi.org/10.1007/s10071-021-01493-5"><strong>Online</strong></a> |<a href="https://mpelgrim.github.io/papers/Accurate.pdf">PDF</a></p></li>
-<li><p>ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S. Byrne M, Freeman, M. S., Gnanadesikan, G. E., Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., <strong>Pelgrim, M. H.</strong>, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., &amp; Zipperling L. (pre-registered report accepted in principle). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. <em>Animal Behavior and Cognition</em><br />
-<a href="https://psyarxiv.com/f86jq/"><strong>Online</strong></a></p></li>
-</ol>
+<p><strong>Pelgrim, M. H</strong>., Buchsbaum, D. (in press) Categorizing Dogs’ Real World Visual Statistics. <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society. .</em> </p>
+<p>ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S. Byrne M, Freeman, M. S., Gnanadesikan, G. E., Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., <strong>Pelgrim, M. H.</strong>, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., &amp; Zipperling L. (pre-registered report accepted in principle). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. <em>Animal Behavior and Cognition</em><br />
+<a href="https://psyarxiv.com/f86jq/"><strong>Online</strong></a></p>
+<p><strong>Pelgrim, M. H</strong>., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. <em>Animal Cognition.</em> <a href="https://doi.org/10.1007/s10071-021-01493-5"><strong>Online</strong></a> |<a href="https://mpelgrim.github.io/papers/Accurate.pdf">PDF</a></p>
 <h1 id="unpublished-work">Unpublished Work</h1>
-<ol start="3" type="1">
-<li><p><strong>Pelgrim, M.H.</strong>, Espinosa, J., &amp; Buchsbaum, D. (in prep) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method</p></li>
-<li><p>Espinosa, J., Corbit, L., McGinn, K., <strong>Pelgrim, M. H.</strong>, &amp; Buchsbaum, D. (in prep). Domestic dogs‘ sensitivity to the temporal priority principle.</p></li>
-</ol>
+<p><strong>Pelgrim, M.H.</strong>, Espinosa, J., &amp; Buchsbaum, D. (under revision) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method</p>
+<p>Espinosa, J., Corbit, L., McGinn, K., <strong>Pelgrim, M. H.</strong>, &amp; Buchsbaum, D. (in prep). Domestic dogs‘ sensitivity to the temporal priority principle.</p>
 <div class="layout-chunk" data-layout="l-body">
 <p style="font-size: 70%; font-style: italic">
   Disclaimer: The PDFs provided may be copyrighted by the journals/edited volumes
