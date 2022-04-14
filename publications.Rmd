@@ -5,16 +5,18 @@ output:
 ---
 
 # Publications
-1. **Pelgrim, M. H**., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. *Animal Cognition.*\ [**Online**](https://doi.org/10.1007/s10071-021-01493-5) |[PDF](https://mpelgrim.github.io/papers/Accurate.pdf)
+**Pelgrim, M. H**., Buchsbaum, D. (in press) Categorizing Dogs’ Real World Visual Statistics. *Proceedings of the 44th Annual Conference of the Cognitive Science Society.  .*\ 
 
-2. ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S.  Byrne M, Freeman, M. S., Gnanadesikan, G. E.,  Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., **Pelgrim, M. H.**, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., & Zipperling L. (pre-registered report accepted in principle). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. *Animal Behavior and Cognition*\
+ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S.  Byrne M, Freeman, M. S., Gnanadesikan, G. E.,  Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., **Pelgrim, M. H.**, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., & Zipperling L. (pre-registered report accepted in principle). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. *Animal Behavior and Cognition*\
     [**Online**](https://psyarxiv.com/f86jq/)
+
+**Pelgrim, M. H**., Espinosa, J., Tecwyn, E.C., Marton, S. M., Johnston, A.M., Buchsbaum, D. (2021) What’s the point? Domestic Dogs’ understanding of the accuracy of human social informants. *Animal Cognition.*\ [**Online**](https://doi.org/10.1007/s10071-021-01493-5) |[PDF](https://mpelgrim.github.io/papers/Accurate.pdf)
 
 
 # Unpublished Work
-3. **Pelgrim, M.H.**, Espinosa, J., & Buchsbaum, D. (in prep) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method
+**Pelgrim, M.H.**, Espinosa, J., & Buchsbaum, D. (under revision) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method
 
-4. Espinosa, J., Corbit, L., McGinn, K., **Pelgrim, M. H.**, & Buchsbaum, D. (in prep). Domestic dogs‘ sensitivity to the temporal priority principle.
+Espinosa, J., Corbit, L., McGinn, K., **Pelgrim, M. H.**, & Buchsbaum, D. (in prep). Domestic dogs‘ sensitivity to the temporal priority principle.
 
 ```{r echo=FALSE}
 htmltools::p(
