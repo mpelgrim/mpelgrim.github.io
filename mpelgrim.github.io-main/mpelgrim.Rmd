@@ -1,0 +1,20 @@
+---
+title: "Madeline H. Pelgrim"
+image: "mpelgrim.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/madeline-pelgrim-81962510a/"
+  - label: Twitter
+    url: "https://twitter.com/madelinepelgrim"
+  - label: GitHub
+    url: "https://github.com/mpelgrim"
+  - label: Email
+    url: "mailto:madeline_pelgrim@brown.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a second year PhD student at Brown University working with Daphna Buchsbaum at the Brown Dog Lab. 
+
+My research focuses on how dogs think and learn about the world around them, particularly in their interactions with their human companions. I completed my Bachelor's in Biology and Psychology at the University of Toronto. 
+
