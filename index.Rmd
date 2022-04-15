@@ -12,11 +12,15 @@ links:
   - label: Email
     url: "mailto:madeline_pelgrim@brown.edu"
 output:
-  postcards::jolla
+  postcards::trestles
   
 ---
  
-I am a second year PhD student at Brown University working with Daphna Buchsbaum at the Brown Dog Lab. 
+I am a second year PhD student at Brown University working with Daphna Buchsbaum at the 
+[**Brown Dog Lab**](https://sites.brown.edu/browndoglab/). 
+I study how dogs think and learn about the world around them, 
+particularly in their interactions with their human companion.
 
-My research focuses on how dogs think and learn about the world around them, particularly in their interactions with their human companions. I completed my Bachelor's in Biology and Psychology at the University of Toronto. 
+I completed my Bachelor's in Biology and Psychology at the University of Toronto. My early research
+focused on selective trust in dogs, specifically exploring dog's ability to use past informant accuracy to trust one person over another. My current work explores dogs make decisions as well as categorizing the information available to them in their daily environment using head-mounted eye-trackers. 
 
