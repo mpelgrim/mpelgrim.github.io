@@ -4,8 +4,18 @@ output:
   distill::distill_article
 ---
 
+An index of my publications can also be found on [**Google Scholar**](https://scholar.google.ca/citations?user=yQn-c5MAAAAJ&hl=en)
+
 # Publications
-**Pelgrim, M. H**., Buchsbaum, D. (in press) Categorizing Dogs’ Real World Visual Statistics. *Proceedings of the 44th Annual Conference of the Cognitive Science Society.  .*\ 
+
+
+
+**Pelgrim, M.H.**, Espinosa, J., & Buchsbaum, D. (2022) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method *Behavior Research Methods. *\
+[**Online**](https://link.springer.com/article/10.3758/s13428-022-01907-3)|[PDF](https://mpelgrim.github.io/papers/EyeTracking_Methods.pdf)
+
+
+**Pelgrim, M. H**. & Buchsbaum, D. (2022) Categorizing Dogs’ Real World Visual Statistics. *Proceedings of the 44th Annual Conference of the Cognitive Science Society. *\ 
+  [**Online**](https://escholarship.org/uc/item/769022r9) |[PDF](https://mpelgrim.github.io/papers/Categorizing_Dog_Visual_Stats.pdf)
 
 ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S.  Byrne M, Freeman, M. S., Gnanadesikan, G. E.,  Guran, A., Horschler, D. J., Huber, L., Johnston, A. M., MacLean, E. L., **Pelgrim, M. H.**, Santos, L., Silver, Z. A., Stevens, J. R., Völter, C. J., & Zipperling L. (pre-registered report accepted in principle). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. *Animal Behavior and Cognition*\
     [**Online**](https://psyarxiv.com/f86jq/)
@@ -14,7 +24,6 @@ ManyDogs Project, Espinosa, J., Bray, E. E., Buchsbaum, D., Byosiere, S.  Byrne 
 
 
 # Unpublished Work
-**Pelgrim, M.H.**, Espinosa, J., & Buchsbaum, D. (under revision) Head-Mounted Mobile Eye-tracking in the Domestic Dog: A New Method
 
 Espinosa, J., Corbit, L., McGinn, K., **Pelgrim, M. H.**, & Buchsbaum, D. (in prep). Domestic dogs‘ sensitivity to the temporal priority principle.
 
