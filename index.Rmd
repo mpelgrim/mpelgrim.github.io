@@ -16,10 +16,9 @@ output:
   
 ---
  
-I am a second year PhD student at Brown University working with Daphna Buchsbaum at the 
-[**Brown Dog Lab**](https://sites.brown.edu/browndoglab/). 
-I study how dogs think and learn about the world around them, 
-particularly in their interactions with their human companion.
+I am a fourth year PhD student at Brown University in the [**Department of Cognitive, Linguistic, & Psychological Sciences**](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home). I work with Dr. Daphna Buchsbaum at the 
+[**Brown Dog Lab**](https://sites.brown.edu/browndoglab/) studying how dogs think and learn about the world around them, 
+particularly in their interactions with their human companions.
 
 I completed my Bachelor's in Biology and Psychology at the University of Toronto. My early research
 focused on selective trust in dogs, specifically exploring dog's ability to use past informant accuracy to trust one person over another. My current work explores dogs make decisions as well as categorizing the information available to them in their daily environment using head-mounted eye-trackers. 
