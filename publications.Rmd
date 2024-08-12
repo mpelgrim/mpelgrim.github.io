@@ -8,11 +8,17 @@ An index of my publications can also be found on [**Google Scholar**](https://sc
 
 # Publications
 
+**Pelgrim, M. H.**, He, I.X., Lee, K., Pabari, F., Tellex, S., Nguyen, T., & Buchsbaum, D. (2024) Find it like a dog: Using Gesture to Improve Object Search. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46\
+[**Online**](https://escholarship.org/uc/item/0nk6w9fd) | [PDF](https://mpelgrim.github.io/papers/Pelgrim_CogSci_24.pdf) 
+
+**Pelgrim, M. H.**, Tidd, Z., Byrne, M, Johnston, A. M., Buchsbaum, D. (2024) Synchronous citizen science with dogs. *Animal Cognition*, 27(1): 46.\
+[**Online**](https://doi.org/10.1007/s10071-024-01882-6) | [PDF](https://mpelgrim.github.io/papers/Synchronous_24.pdf)
+
 ManyDogs Project, Espinosa, J., Stevens, J.R., Alberghina, D., Alway, H.E.E., Barela, J.D., Bogese, M., Bray, E.E., Buchsbaum, D. Byosiere, S.-E., Byrne, M., Cavalli, C. M., Chaudoir, L. M., Collins-Pisano, C., DeBoer, H.J., Douglas L.E.L.C., Dror, S., Dzik, M.V., Ferguson, B., Fisher, L., Fitzpatrick, H.C., Freeman, M.S., Frinton, S.N., Glover, M.K., Gnanadesikan, G.E., Goacher, J.E.P., Golańska, M., Guran, C.-N.A., Hare, E., Hare, B. Hickey, M., Horschler, D.J., Huber, L., Jim, H.-L., Johnston, A.M., Kaminski, J. Kelly, D.M., Kuhlmeier, V.A., Lassiter, L., Lazarowski, L., Leighton-Birch, J., MacLean, E.L., Maliszewska, K., Marra, V., Montgomery, L.I., Murray, M.S., Nelson, E.K., Ostojić, L., Palermo, S.G., Parks Russell, A.E., **Pelgrim, M.H.**, Pellowe, S.D., Reinholz, A., Rial, L.A., Richards, E.M., Ross, M.A., Rothkoff, L.G., Salomons, H., Sanger, J.K., Santos, L., Shirle, A.R., Shearer, S.J., Silver, Z.A., Silverman, J.M., Sommese, A., Srdoc, T., St. John-Mosse, H., Vega, A.C., Vékony, K., Völter, C.J., Walsh C.J., Worth, Y.A., Zipperling, L.M.I., Żołędziewska, B., & Zylberfuden, S.G. (2023). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. *Animal Behavior and Cognition*, 10(3), 232-28\
 [**Stage 1 registered report**](https://doi.org/10.31234/osf.io/f86jq)| [**Online**](https://doi.org/10.26451/abc.10.03.03.2023)|[PDF](https://mpelgrim.github.io/papers/ManyDogs1.pdf)
 
 
-**Pelgrim, M. H.**, Espinosa, J., & Buchsbaum, D. (2023). The Impact of Quality and Familiarity on Dogs’ Food Preferences. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 45(45). \
+**Pelgrim, M. H.**, Espinosa, J., & Buchsbaum, D. (2023). The Impact of Quality and Familiarity on Dogs’ Food Preferences. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 45. \
 [**Online**](https://escholarship.org/uc/item/9v26x7rt) | [PDF](https://mpelgrim.github.io/papers/Pelgrim_CogSci_23.pdf)
 
 
