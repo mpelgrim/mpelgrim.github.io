@@ -8,6 +8,9 @@ An index of my publications can also be found on [**Google Scholar**](https://sc
 
 # Publications
 
+**Pelgrim, M. H.**, Sundara Raman, S., Serre, T., & Buchsbaum, D. (2025) Evaluating Dogs’ Real-World Visual Environment andAttention. *Cognitive Science*, 49 (6)\
+[**Online**](https://onlinelibrary.wiley.com/share/author/4W5K2EKKVYV2B4A6HSIZ?target=10.1111/cogs.70080) | [PDF](https://mpelgrim.github.io/papers/EyeTracking_Walks.pdf) 
+
 **Pelgrim, M. H.**, He, I.X., Lee, K., Pabari, F., Tellex, S., Nguyen, T., & Buchsbaum, D. (2024) Find it like a dog: Using Gesture to Improve Object Search. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46\
 [**Online**](https://escholarship.org/uc/item/0nk6w9fd) | [PDF](https://mpelgrim.github.io/papers/Pelgrim_CogSci_24.pdf) 
 
@@ -40,6 +43,10 @@ ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espi
 
 
 # Unpublished Work
+
+Gatesy-Davis, A., **Pelgrim M. H.**, Malle, B., & Buchsbaum, D. (in prep) Measuring trust across species.
+
+Ross, M. A., **Pelgrim M. H.**, Malle, B., & Buchsbaum, D. (in prep) Human Judgements of Dog Intelligence.
 
 Espinosa, J., Corbit, L., McGinn, K., **Pelgrim, M. H.**, & Buchsbaum, D. (in prep). Domestic dogs‘ sensitivity to the temporal priority principle.
 
